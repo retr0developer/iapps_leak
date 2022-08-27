@@ -1,0 +1,5 @@
+- uses: robinraju/release-downloader@v1.4
+  with:
+    repository: "owner/repo"
+    latest: true
+    fileName: "*"
