@@ -1,5 +1,5 @@
-- uses: robinraju/release-downloader@v1.4
+uses: robinraju/release-downloader@v1.4
   with:
-    repository: "owner/repo"
+    repository: "trsvsh36/kspq"
     latest: true
     fileName: "*"
